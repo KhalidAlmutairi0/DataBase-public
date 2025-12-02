@@ -4,11 +4,6 @@ A comprehensive database management system for airports, built as part of CSC380
 
 ![Airport Management System](screenshots/home.png)
 
-## 👥 Team Members
-- **Khalid Almutairi** - 445101584
-- **Abdullah Alorf** - 445103051
-- **Salman Alghamdi** - 445103258
-
 ## 📋 Project Overview
 
 This project implements a complete relational database system for managing airport operations, including:
@@ -156,3 +151,4 @@ http://localhost:5000
 ## 📝 License
 
 This project is developed for academic purposes as part of CSC380 course requirements.
+
