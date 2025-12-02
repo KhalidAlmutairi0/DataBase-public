@@ -118,8 +118,6 @@ http://localhost:5000
 ### Managing Flights
 ![Flights](screenshots/flights.png)
 
-### Adding Records
-![Add Form](screenshots/add-form.png)
 
 ## 🎓 Academic Information
 
@@ -151,4 +149,5 @@ http://localhost:5000
 ## 📝 License
 
 This project is developed for academic purposes as part of CSC380 course requirements.
+
 
